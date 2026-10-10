@@ -1,0 +1,11 @@
+{
+  "name": "BillGenius AI",
+  "description": "AI-powered billing and retail management system for shops, supermarkets, and SMBs in Tamil Nadu featuring INR (₹) GST billing, vision scanning, Tamil voice billing, Base44 cloud entity sync, and live stock tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
